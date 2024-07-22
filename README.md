@@ -27,7 +27,7 @@
 
 ## About The Project
 
-[![Crypto Market][product-screenshot]](https://github.com)
+[![Crypto Market][product-screenshot]](https://github.com/albertjulian/crypto-dashboard)
 
 This is about crypto-dashboard buy and sell order example that i created as a simple Project to demonstrate Next JS framework with React library as frontend programming language and simple connection with WebSockets. The Data in this app dashboard is not real data, only using free API and mock Data as based of several Coin Cryptos base prices.
 
@@ -54,7 +54,7 @@ You need to install NPM and Node.js to be able run this project
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/albertjulian/crypto-dashboard.git
    ```
 2. Install NPM packages
    ```sh
