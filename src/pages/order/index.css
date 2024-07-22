@@ -1,0 +1,26 @@
+.stock-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 20px;
+}
+
+.stock-title {
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  gap:20px;
+}
+
+.stock-order {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}

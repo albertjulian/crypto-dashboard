@@ -1,0 +1,14 @@
+.price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.crypto-price-up {
+  color: forestgreen
+}
+
+.crypto-price-down {
+  color: red
+}

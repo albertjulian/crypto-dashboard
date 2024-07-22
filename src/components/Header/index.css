@@ -1,0 +1,49 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 8px white;
+}
+
+.logo-first {
+  color: purple
+}
+
+.logo-second {
+  color: gold
+}
+
+.search-input-container {
+  padding: '2px 4px';
+  display: 'flex';
+  align-items: 'center';
+  width: 250
+}
+
+@media only screen and (max-width: 750px) {
+  .logo-container-none {
+    display: none;
+  }
+
+  .logo-container {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .logo-container {
+    font-size: 20px;
+  }
+}

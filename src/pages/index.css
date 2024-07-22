@@ -1,0 +1,36 @@
+.home-top-crypto {
+  padding: 20px;
+  height: fit-content;
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.crypto-card {
+  padding: 10px;
+  height: 150px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+  align-items: center;
+  background-color: #232B2B;
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  box-shadow: 5px 5px 1px #888888;
+}
+
+.crypto-card:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+.crypto-price {
+  font-size: 15px;
+  font-weight: 600;
+}
