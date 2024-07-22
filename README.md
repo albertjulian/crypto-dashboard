@@ -91,7 +91,7 @@ To be able to run this project, please follow these instructions:
 
 Albert Julian - [My Linkedin][linkedin-url] - albertjulian.id@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/albertjulian/crypto-dashboard](https://github.com/albertjulian/crypto-dashboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
